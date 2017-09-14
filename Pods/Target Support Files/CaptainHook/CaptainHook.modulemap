@@ -1,0 +1,6 @@
+framework module CaptainHook {
+  umbrella header "CaptainHook-umbrella.h"
+
+  export *
+  module * { export * }
+}
