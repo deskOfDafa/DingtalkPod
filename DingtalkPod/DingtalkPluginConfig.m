@@ -5,7 +5,7 @@
 //  Created by jack ma on 2017/9/14.
 //  Copyright © 2017年 jack ma. All rights reserved.
 //
-#import "CaptainHook.h"
+#import <CaptainHook/CaptainHook.h>
 #import "DingtalkPluginConfig.h"
 
 DingtalkPluginConfig* pluginConfig = nil;
