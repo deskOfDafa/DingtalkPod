@@ -9,7 +9,7 @@
 
 #import "DingtalkPod.h"
 #import "DingtalkPluginConfig.h"
-#import "CaptainHook.h"
+#import <CaptainHook/CaptainHook.h>
 #import <UIKit/UIKit.h>
 
 @implementation DingtalkPod

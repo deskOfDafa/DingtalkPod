@@ -8,7 +8,7 @@
 //
 
 
-#import "CaptainHook.h"
+#import <CaptainHook/CaptainHook.h>
 #import <UIKit/UIKit.h>
 #import "DingtalkPluginConfig.h"
 
